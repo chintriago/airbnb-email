@@ -1,0 +1,216 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      .section {
+        border: 1px solid #dddddd !important;
+        border-radius: 12px !important;
+        max-width: 640px !important;
+      }
+
+      .hero-img table tbody tr td {
+        padding: 0 0 15px !important;
+      }
+
+      .hero-img table tbody tr td table {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+
+      .hero-btn table tbody tr td {
+        padding: 6px 12px !important;
+      }
+
+      .aircover-img {
+        padding: 0 0 !important;
+      }
+
+      .aircover-img table tbody tr td {
+        width: 600px !important;
+      }
+
+      .aircover-img {
+        width: 100% !important;
+      }
+
+      .footer-logos table tbody tr {
+        display: inline-block !important;
+      }
+
+      .footer-logos table {
+        text-align: right !important;
+        margin-right: 15px !important;
+      }
+
+      .footer-logos table tbody tr td {
+        padding: 8px 0 !important;
+      }
+
+      .store-logos table tbody tr {
+        display: inline-block !important;
+      }
+
+      .play-store {
+        text-align: left !important;
+      }
+
+      @media screen and (min-width: 600px) {
+        .information-img {
+          padding: 0 0 15px !important;
+        }
+
+        .information-img table tbody tr td {
+          width: 640px !important;
+        }
+      }
+
+      @media screen and (max-width: 600px) {
+        .section {
+          border: none !important;
+        }
+      }
+    </mj-style>
+    <mj-style inline="inline">
+
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-raw>
+      <!-- Nav Section -->
+    </mj-raw>
+    <mj-section css-class="section">
+      <mj-column width="100%">
+        <mj-image href="https://www.airbnb.com/?src_section=342711&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag%3A8047" src="https://ci6.googleusercontent.com/proxy/tGaieN9L1sfLf7ntewUbTDtRRbdLJ2ricKfq3sVW_DwySC6vLZOkF99VLV7tKEWsr-NfGoAc_lwTWkDl-zF1cPO30_HtKyO3035CuleOqNZz-LzAt6Os-C40OWI=s0-d-e1-ft#https://a0.muscache.com/pictures/ba144bdb-84ef-4289-ba83-c50a55e7a699.jpg" alt="airbnb logo" />
+      </mj-column>
+      <mj-column width="100%">
+        <mj-image href="https://www.airbnb.com/?src_section=342711&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag%3A8047" src="https://ci6.googleusercontent.com/proxy/xAeOHKoeNrlkT-lyr6SzH37JE3FB_HuV8c1jmRV0oB8oLG0d0KekPQSDNjuEhggxeunkHKkmQuij8mROQTy2kWqvGABWCK-DkicIyKhzNoi4sql2KCWgO1GvlJ8=s0-d-e1-ft#https://a0.muscache.com/pictures/2dcafdea-22a4-40e0-8139-14e0cb786ee7.jpg" alt="Whimsical Wonderlands Text" />
+      </mj-column>
+      <mj-raw>
+        <!-- Hero Section -->
+      </mj-raw>
+      <mj-column css-class="hero-img" width="100%">
+        <mj-image href="https://www.airbnb.com/?src_section=342711&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag%3A8047" src="https://ci3.googleusercontent.com/proxy/0UHW0Vy2lzr23GEkog6ue-D2J3LC26iNbJyA8Z2LieSCSWWCPskQRMXnosVqOXKtRYBY0m-In7u3wJfl843xjwMYoiwYnQFKbJuWdIRszEOrs1VwGFsRvEX5s9k=s0-d-e1-ft#https://a0.muscache.com/pictures/6876b84d-20f2-4a5b-93cc-a639551cd880.jpg" alt="Castle Picture" />
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text font-size="19px" line-height="28px" align="center">
+          Sip afternoon tea inside a castle, wander barefoot through wide-open meadows, or relax in a home atop the trees. These <strong>Airbnb Categories</strong> are ones for the books.
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-button css-class="hero-btn" background-color="#222" border-radius="8px">
+          <a style="color: white; font-size: 18px; line-height: 24px; text-align: center; text-decoration: none;" href="https://www.airbnb.com/?src_section=342718&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag%3A8047">Explore now
+        </mj-button>
+      </mj-column>
+      <mj-raw>
+        <!-- Information Section -->
+      </mj-raw>
+      <mj-raw>
+        <!-- Information-Castles -->
+      </mj-raw>
+      <mj-column width="100%">
+        <mj-image href="https://www.airbnb.com/s/homes?src_section=342719&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag:8047" src="https://ci4.googleusercontent.com/proxy/DmtJBHyLVIhOHwW5FIXmNnp9VRlG1U3QK2_Bxj8XxbfUZqhvAEjxO6kX8z3A-NmuoKBUpCVE2h5qHUPb22jM8sThfjprHPmPdm5navO5ex2_PjjpcecM6LI5hT4=s0-d-e1-ft#https://a0.muscache.com/pictures/19df2645-7622-4e23-ac04-a5e5e9f7dd58.jpg" alt="Castle Icon" />
+      </mj-column>
+      <mj-column width="100%">
+        <mj-image css-class="information-img" href="https://www.airbnb.com/s/homes?src_section=342719&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag:8047" src="https://ci4.googleusercontent.com/proxy/HbB1d_4q3HjOMinoG0Sy5FoNLqkMv4G-BB4IIh-Btx5SSyDez-sA7hOGqeYfWiSRTjGHNTre8c1QR-DEw9YarAPij-s6VSJ_-iDcdadyEopUAEay1psCS2BgD-c=s0-d-e1-ft#https://a0.muscache.com/pictures/ffc2bb8a-e484-4f39-9d3d-2a7420064856.jpg" alt="Castles" />
+      </mj-column>
+      <mj-column width="90%">
+        <mj-text font-size="18px" line-height="28px" align="center">
+          Go where the walls are lined with centuries of lore. Bring the whole group to a private castle and relax like royalty for a few days—or explore private rooms perfect for two.
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-button css-class="hero-btn" background-color="#fff" border-radius="8px" border=" 1px solid #000">
+          <a style="color: #000; font-size: 18px; line-height: 24px; text-align: center; text-decoration: none;" href="https://www.airbnb.com/?src_section=342718&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag%3A8047">Travel back in time
+        </mj-button>
+      </mj-column>
+      <mj-raw>
+        <!-- Information-Countryside -->
+      </mj-raw>
+      <mj-column width="100%">
+        <mj-image href="https://www.airbnb.com/s/homes?src_section=342719&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag:8047" src="https://ci3.googleusercontent.com/proxy/oz6WLhk1OgKpg8R22G3nIejeZB48zI7S8KZEP3Bm7i-2CLp1tejMz5DaT0_gbBduagR64a3zpp85uzXYY_NUFQlpnVv3kH_-p8uU4QWwC7JZG8u_bqxHcPT6Xkw=s0-d-e1-ft#https://a0.muscache.com/pictures/3ea4d62c-8e4f-4993-845a-7aaab891fdb4.jpg" alt="Countryside Icon" />
+      </mj-column>
+      <mj-column width="100%">
+        <mj-image css-class="information-img" href="https://www.airbnb.com/s/homes?src_section=342719&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag:8047" src="https://ci3.googleusercontent.com/proxy/A1TNX4uBtsk6bMvLPGhSkEntdPBgVRGJefLt0MJ6B9ZBTRgka42cFkVYkgM_Y6SYJpdHgCCrEPHYipCs193vpJKHs23X5TOqtJlh6d1oC_EwxKJ9AvrtWMGOyWg=s0-d-e1-ft#https://a0.muscache.com/pictures/209b73ed-0f83-44dc-830e-64817342318d.jpg" alt="Countryside" />
+      </mj-column>
+      <mj-column width="90%">
+        <mj-text font-size="18px" line-height="28px" align="center">
+          Sometimes setting is everything. Here, beautiful ponds reflect the pristine surroundings, green meadows roll off into the sunset, and not a sound or soul disrupts the endless scenery.
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-button css-class="hero-btn" background-color="#fff" border-radius="8px" border=" 1px solid #000">
+          <a style="color: #000; font-size: 18px; line-height: 24px; text-align: center; text-decoration: none;" href="https://www.airbnb.com/?src_section=342718&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag%3A8047">Enter a dreamscape
+        </mj-button>
+      </mj-column>
+      <mj-raw>
+        <!-- Information-Treehouses -->
+      </mj-raw>
+      <mj-column width="100%">
+        <mj-image href="https://www.airbnb.com/s/homes?src_section=342719&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag:8047" src="https://ci3.googleusercontent.com/proxy/Oz00Qn9Gq_tM6Tox4nCbSeNRv-E8i_D-k7hK-gY-pHSWOtYhiDWkJ_2FclV-CKnlJ83-wLpjTpbeZZIZBYZuAaaM_4F1TBjtWIr-vIbyyzCQkp0-QXqN0lAwmhk=s0-d-e1-ft#https://a0.muscache.com/pictures/349e3a8b-8edf-4ed2-9f93-a802ae45ecb6.jpg" alt="Treehouses Icon" />
+      </mj-column>
+      <mj-column width="100%">
+        <mj-image css-class="information-img" href="https://www.airbnb.com/s/homes?src_section=342719&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag:8047" src="https://ci6.googleusercontent.com/proxy/COtS3g84SJsLfaa1j_avM6ru0cmw_ecg0oaiN82NMVP94601u9cgSatSLIac7VFTarlFguDpKHfra2tpb-_TUzuApTLcBk6z_Ar6NQCeh-VqeWFEI2Uq5QOmCqw=s0-d-e1-ft#https://a0.muscache.com/pictures/abad569a-af1d-4e8e-a0b9-5c75a0cee7cb.jpg" alt="Treehouses" />
+      </mj-column>
+      <mj-column width="90%">
+        <mj-text font-size="18px" line-height="28px" align="center">
+          Spend your next getaway floating on air. Marvelous details bring these quirky homes to life—from trees that grow right through the house to spiral staircases stacked toward the sky.
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-button css-class="hero-btn" background-color="#fff" border-radius="8px" border=" 1px solid #000">
+          <a style="color: #000; font-size: 18px; line-height: 24px; text-align: center; text-decoration: none;" href="https://www.airbnb.com/?src_section=342718&c=.pi80.pkb21uaS80LzU3OTYy&euid=6f43b683-9c1d-debc-98d7-5c7be838c61c&search_mode=flex_destinations_search&category_tag=Tag%3A8047">Climb on up
+        </mj-button>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-divider width="90%" border-style="solid" border-width="1px" border-color="#dddddd" padding="25px 0 10px" />
+      </mj-column>
+      <mj-raw>
+        <!-- Information  Aircover -->
+      </mj-raw>
+      <mj-column width="100%">
+        <mj-image css-class="aircover-img" src="https://ci6.googleusercontent.com/proxy/5KoR2zAU16m_izy2ik3nhMXNdl6BS5rkU_QhoxyZp4Q7B2cCCoa45qStrXhg_qLjlz9toXzEw5BWWo-rgoGITOFyk6sSvCkhB41eZN2f5dWkI4BHlnkego4x0eU=s0-d-e1-ft#https://a0.muscache.com/pictures/3b1aabac-cd48-4981-8f4e-4f27a274ac24.jpg" alt="Aircover Logo" />
+        <mj-text>
+          <p style="font-family: Cereal, Helvetica Neue, Helvetica, msans-serif; font-size: 18px; line-height: 28px; text-align: start;">Every Airbnb booking includes <strong style="text-decoration: underline;">AirCover</strong>—free protection from Host cancellations, listing inaccuracies, and other issues like trouble checking in.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-divider width="90%" border-style="solid" border-width="1px" border-color="#dddddd" padding="25px 0 10px" />
+      </mj-column>
+      <mj-raw>
+        <!-- Footer Section -->
+      </mj-raw>
+      <mj-group width="100%">
+        <mj-column css-class="airbnb-logo" width="50%">
+          <mj-image align="left" width="32px" height="32px" src="https://ci5.googleusercontent.com/proxy/1nq7uFroxB6arOVcSFVgterIyzXqmTO1qM-uC7jG1wtnDtGDC7yCr5rx9kW_IrGxc51U6mNNnBisStXnw_fXnI1oE62aC5LNb0ruLV4TBZcW3e1bPpHqiclDj98=s0-d-e1-ft#https://a0.muscache.com/pictures/d5e805e2-dfa8-4a7d-b06f-c5910be9a725.jpg" alt="Airbnb Logo" />
+        </mj-column>
+        <mj-column css-class="footer-logos" width="50%">
+          <mj-image href="https://www.facebook.com/airbnb" target=_blank align="right" width="20px" height="20px" src="https://ci6.googleusercontent.com/proxy/gtVq__GPkDi-h7Jsf6vLPSpz51tF82AhTsYQf9eJtwRFydrK2QYL2zb2sIQC41VYL9m-TDmcoVPWsa_yogQU4rMgSJiEqu-OKcN2miVpBXcCNzdpraI9WSCll7I=s0-d-e1-ft#https://a0.muscache.com/pictures/f6cf515c-976d-4a6a-a7be-1843301d6b14.jpg" alt="Faceobook Logo" />
+          <mj-image href="https://www.instagram.com/airbnb/" target=_blank align="right" width="20px" height="20px" src="https://ci6.googleusercontent.com/proxy/fnL1Z7X-xxItGMmNbWxO99T01JVmeUc2wxg4skRjU-HBwlI-4Sx5U6dv-lLzbEC-oCCu6_GnKgr1FsPCfJKBf4oehQtAb8l7TlXhOUuG2ZHJq-q6u3jrrhVl7lI=s0-d-e1-ft#https://a0.muscache.com/pictures/440c50ea-9366-4670-a1cf-186c6e870f7c.jpg" alt="Instagram Logo" />
+          <mj-image href="https://twitter.com/Airbnb" target=_blank align="right" width="20px" height="20px" src="https://ci5.googleusercontent.com/proxy/3RDUGhiZoAfQ04D9MzzbMadh-EG26MpWFiTy3kEhM2qkOtGxaJpBEYZWF0s_8FSczmdFiUfCoMH_9jJiBvQ84CennWbs3pDxl7DVQVTWXAqY4ynGtrM3q2nGbkA=s0-d-e1-ft#https://a0.muscache.com/pictures/657f5f55-8335-4d4a-8a45-75e3b54d6eb1.jpg" alt="Twitter Logo" />
+        </mj-column>
+      </mj-group>
+      <mj-column width="100%">
+        <mj-text>
+          Airbnb, Inc.<br>
+          888 Brannan St.<br>
+          San Francisco, CA 94103, USA
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text>
+          Get the Airbnb app
+        </mj-text>
+      </mj-column>
+      <mj-group width="100%">
+        <mj-column css-class="store-logos" width="100%">
+          <mj-image href="https://www.apple.com/app-store/" target=_blank width="119.66px" height="40px" src="https://ci4.googleusercontent.com/proxy/AIo1RYbYl7zXYWRbsJUotr47SFaKjNo9VC3gh1WfXVESDmXJQHtcLBqAr7jllemGQR7eTMa-NWfgTNNwPTqqU9cEIFGeiwLaSM4_ZOIEt1sC1dG5147oJlkDp_4=s0-d-e1-ft#https://a0.muscache.com/pictures/b34eaece-11bc-425b-956a-ee0fb1ab1501.jpg" alt="App Store" />
+          <mj-image href="https://play.google.com/store/games?hl=en_US&gl=US&pli=1" target=_blank css-class="play-store" width="130px" height="40px" src="https://ci6.googleusercontent.com/proxy/XznbvuSkEEs6u0ozFL7IcphCyHJUhxBC5ooUHUk_8A0fch69ZXQ4-Yz6dkJtBByDUPpaGFAIbtGhgxdb-AV8GvUR3ws2pHZTJkH3Uib3MrowM03maWWjAX3qhDY=s0-d-e1-ft#https://a0.muscache.com/pictures/8c1b684f-e6ed-421d-9308-aa782c378d6e.jpg" alt="Play Store" />
+        </mj-column>
+      </mj-group>
+      <mj-column width="100%">
+        <mj-text>
+          <p style="font-family: Cereal, Helvetica Neue, Helvetica, msans-serif; font-size: 14px; line-height: 20px;">Update your <a href="#" style="color: black">email preferences</a> to choose which emails you get<br> or <a href="#" style="color: black">unsubscribe</a> from this type of email.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
